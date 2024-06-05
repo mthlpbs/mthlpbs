@@ -2,11 +2,11 @@
 
 <!--**mthlpbs/mthlpbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on ...
+- 👨‍🦱 I’m Mithila Prabashwara, a froshman.
 - 🌱 I’m currently learning into be a software engineer.
-- 👯 I’m looking to collaborate on more project that echnace my skills.
-- 📫 How to reach me: tqd8ewd7d@mozmail.com
-                       <a href = "https://stackoverflow.com/users/19565278/mthlpbs">Stackoverflow</a>
+- 👯 I’m looking to collaborate on more project that echnace my skills & knowledge.
+- 📫 How to reach me: <a href="mailto:tqd8ewd7d@mozmail.com"> <img src="resources/gmail.png" width="2%" height="2%"></a>
+                       <a href="https://stackoverflow.com/users/19565278/mthlpbs"><img src="resources/stackoverflow.png" width="1.5%" height="1.5%" aligh="left"></a>
 - 😄 Pronouns: @asurpbs
-- ⚡ Fun fact: √-1 2³ Σ 🍎 π
+- ⚡ Fun fact: √-1 2³ Σ 🍎 π 
 
