@@ -5,11 +5,11 @@
 - 👨‍🦱 I’m Mithila Prabashwara, a froshman.
 - 🌱 I’m currently learning into be a software engineer.
 - 👯 I’m looking to collaborate on more project that echnace my skills & knowledge.
-- 😄 Pronouns: @asurpbs
+- 😄 Pronouns: asurpbs@github
 - ⚡ Fun fact: √-1 2³ Σ 🍎 π
 </pre>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="mailto:tqd8ewd7d@mozmail.com" target="blank"><img align="center" src="resources/gmail.png" alt="mthlpbs" height="20" width="20" /></a>
 <a href="https://learn.microsoft.com/en-us/users/mthlpbs/" target="blank"><img align="center" src="resources/microsoft.png" alt="mthlpbs" height="15" width="15" /></a>
 <a href="https://twitter.com/mthlpbs" target="blank"><img align="center" src="resources/twitter.png" alt="mthlpbs" height="20" width="20" /></a>
