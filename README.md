@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning into be a software engineer.
 - 👯 I’m looking to collaborate on more project that echnace my skills.
 - 📫 How to reach me: tqd8ewd7d@mozmail.com
-- 😄 Pronouns: asurpbs
+                       <a href = "https://stackoverflow.com/users/19565278/mthlpbs">Stackoverflow</a>
+- 😄 Pronouns: @asurpbs
 - ⚡ Fun fact: √-1 2³ Σ 🍎 π
 
