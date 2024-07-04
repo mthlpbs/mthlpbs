@@ -1,4 +1,3 @@
-<!--**mthlpbs/mthlpbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <pre>
  👨‍🦱 I’m Mithila Prabashwara, a freshman.
  ⭐ I’m currently learning into be a software engineer.
