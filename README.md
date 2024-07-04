@@ -1,5 +1,5 @@
 <div>
-  <pre align="middle"> I'm a first-year software engineering undergraduate student.
+  <pre align="middle"> I'm a software engineering undergraduate student.
     My passion lies in exploring diverse technological contexts like AI, ML & etc.</pre>
     <hr>
 </div>
