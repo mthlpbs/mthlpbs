@@ -8,7 +8,7 @@
 - 😄 Pronouns: asurpbs@github
 - ⚡ Fun fact: √-1 2³ Σ 🍎 π
 </pre>
-<h5 align="right">Connect with me:</h5>
+<h5 style="text-align=right;">Connect with me:</h5>
 <p align="right">
 <a href="mailto:tqd8ewd7d@mozmail.com" target="blank"><img align="center" src="resources/gmail.png" alt="mthlpbs" height="20" width="20" /></a>
 <a href="https://learn.microsoft.com/en-us/users/mthlpbs?wt.mc_id=studentamb_326573" target="blank"><img align="center" src="resources/microsoft.png" alt="mthlpbs" height="15" width="15" /></a>
