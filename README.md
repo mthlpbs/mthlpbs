@@ -4,8 +4,9 @@
     My passion lies in exploring diverse technological contexts like AI, ML & etc.</pre>
     <hr>
 </div>
+
 <table border="0" align="center" width="100%">
-  <tr> 
+  <tr>
     <td>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -24,6 +25,9 @@
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </td>
   </tr>
+</table>
+
+<table border="0" align="center" width="100%">
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mthlpbs&theme=github_dark&hide_border=true" alt="Streak Stats"/> 
     </td>
