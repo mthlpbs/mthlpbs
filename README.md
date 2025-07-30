@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Mithila
-
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 <table align="center" width="100%" border="0">
