@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: actions/setup-go@v4
         with:
@@ -18,11 +18,15 @@ jobs:
 
       - run: go install github.com/muesli/markscribe@latest
 
-      - run: markscribe README.template.md > README.md
+      - name: Generate README
+        run: |
+          echo "Generating README with markscribe..."
+          markscribe README.template.md > README.md || exit 1
+          echo "README generated successfully"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
+          WAKATIME_URL: https://hackatime.hackclub.com/api/hackatime/v1
 
       - name: Commit & Push
         run: |
