@@ -17,8 +17,8 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthlpbs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mthlpbs&theme=github_dark&hide_border=true&layout=compact" alt="Streak Stats"/> 
+    <td> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mthlpbs&theme=github_dark&hide_border=true&layout=compact" alt="Streak Statss"/> 
     </td>
   </tr>
 </table>
