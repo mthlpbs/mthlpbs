@@ -1,17 +1,3 @@
-# 👋 Hello, I'm Mithila
-
-## 📊 Weekly Development Stats
-
-**💾 Languages:**
-{{ range (slice wakatimeData.Languages 0 5) }}
-![{{ .Name }}](https://img.shields.io/badge/{{ .Name }}-{{ printf "%.1f" .Percent }}%25-blue?style=flat-square)
-{{ end }}
-
-**💼 Top Projects:**
-{{ range (slice wakatimeData.Projects 0 5) }}
-- **{{ .Name }}**: {{ .Text }} ({{ printf "%.1f" .Percent }}%)
-{{ end }}
-
 <table align="center" width="100%" border="0">
   <tr>
     <td>
@@ -24,7 +10,6 @@
 </table>
 
 ---
-
 <!-- contact section -->
 <div align="right">
   <h5>
@@ -50,5 +35,6 @@
     </a>
   </h5>
 </div>
+
 
 ---
