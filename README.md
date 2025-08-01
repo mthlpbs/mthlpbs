@@ -1,7 +1,3 @@
-## 📊 My WakaTime Stats (Last Week)
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
 ## 📈 GitHub Stats
 
 <table align="center" width="100%" border="0">
