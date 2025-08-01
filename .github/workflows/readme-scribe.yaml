@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           WAKATIME_API_KEY: "4b29608c-38e1-4c1b-ab1f-41bf4292d9c4"
-          WAKATIME_URL: "https://hackatime.hackclub.com/api/hackatime/v1/"
+          WAKATIME_URL: "hackatime.hackclub.com/api/hackatime/v1/"
         run: ${{ steps.install.outputs.install-path }} -write README.md templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
