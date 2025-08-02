@@ -1,5 +1,3 @@
-## 📈 GitHub Stats
-
 <table align="center" width="100%" border="0">
   <tr>
     <td>
