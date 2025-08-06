@@ -36,8 +36,8 @@
       <img align="center" src="https://www.svgrepo.com/show/450156/github.svg" alt="GitHub" height="20"/>
     </a>
     &nbsp; Others &nbsp;&nbsp;:&nbsp;&nbsp;
-    <a href="https://learn.microsoft.com/en-us/users/mthlpbs" target="_blank">
-      <img align="center" src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="Microsoft Learn" height="20"/>
+    <a href="https://openuserjs.org/users/asurpbs" target="_blank">
+      <img align="center" src="https://openuserjs.org/images/favicon.ico" alt="OpenUserJS" height="20"/>
     </a>
     &nbsp;
     <a href="https://stackoverflow.com/users/19565278/mthlpbs" target="_blank">
