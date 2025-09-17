@@ -138,14 +138,15 @@ def main():
     weekly_total = weekly_stats.get('human_readable_total', 'N/A')
     
     # Generate weekly stats only
-    print("```")
     print("📊 **This Week's Coding Languages:**")
+    print("```")
     weekly_bar = create_language_bar(weekly_languages)
     print(weekly_bar)
+    print("```")
     print(f"**Total Time This Week:** {weekly_total}")
     print()
     print(f"*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*")
-    print("```")
+    
     # Ensure proper UTF-8 output
     if hasattr(sys.stdout, 'reconfigure'):
         sys.stdout.reconfigure(encoding='utf-8')
