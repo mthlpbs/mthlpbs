@@ -14,15 +14,28 @@
 <details>
     <summary><h3>🕰️ WakaTime Coding Stats</h3></summary>
   
-  ### 📊 Languages This Week
-  ```
   <!-- WAKATIME-LANGUAGES:START -->
-  <!-- WAKATIME-LANGUAGES:END -->
-  ```
+📊 **This Week's Coding Languages:**
+```
+Python       1 hrs 31 mins ██████████░░░░░░░░░░░░░░░  42.33%
+Bash         0 hrs 35 mins ████░░░░░░░░░░░░░░░░░░░░░  16.13%
+JSON         0 hrs 31 mins ███░░░░░░░░░░░░░░░░░░░░░░  14.71%
+Markdown     0 hrs 20 mins ██░░░░░░░░░░░░░░░░░░░░░░░   9.27%
+YAML         0 hrs 08 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   3.87%
+```
+**Total Time This Week:** 6 hrs 54 mins
+
+*Last updated: 2025-09-17 14:29:37 UTC*
+<!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 Overall Stats
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=hackatime.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact&hide_title=true" alt="WakaTime Stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=hackatime.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact&hide_title=true" alt="WakaTime Weekly Stats">
+  </p>
+  
+  ### 📈 All-Time Overview
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=hackatime.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
   </p>
 </details>
 
@@ -61,3 +74,4 @@
 
 
 ---
+

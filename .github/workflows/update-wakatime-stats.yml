@@ -19,18 +19,19 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
     
-    - name: Setup Go
-      uses: actions/setup-go@v5
+    - name: Setup Python
+      uses: actions/setup-python@v4
       with:
-        go-version: '1.21'
+        python-version: '3.11'
     
-    - name: Install markscribe
-      run: go install github.com/taciturnaxolotl/markscribe@latest
+    - name: Install Python dependencies
+      run: |
+        pip install requests
     
     - name: Generate Wakatime content
       id: wakatime
       run: |
-        WAKATIME_CONTENT=$(markscribe .github/templates/wakatime-languages.tpl)
+        WAKATIME_CONTENT=$(python .github/scripts/generate_wakatime_bar.py)
         echo "content<<EOF" >> $GITHUB_OUTPUT
         echo "$WAKATIME_CONTENT" >> $GITHUB_OUTPUT
         echo "EOF" >> $GITHUB_OUTPUT

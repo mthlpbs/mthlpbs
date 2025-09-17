@@ -1,0 +1,79 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "total_seconds": 5364,
+      "text": "1 hrs 29 mins",
+      "percent": 43.98163332240079
+    },
+    {
+      "name": "Bash",
+      "total_seconds": 2100,
+      "text": "35 mins",
+      "percent": 17.21876024926205
+    },
+    {
+      "name": "JSON",
+      "total_seconds": 1764,
+      "text": "29 mins",
+      "percent": 14.463758609380125
+    },
+    {
+      "name": "Markdown",
+      "total_seconds": 752,
+      "text": "12 mins",
+      "percent": 6.165956051164316
+    },
+    {
+      "name": "unknown",
+      "total_seconds": 493,
+      "text": "8 mins",
+      "percent": 4.042308953755329
+    },
+    {
+      "name": "YAML",
+      "total_seconds": 439,
+      "text": "7 mins",
+      "percent": 3.59954083306002
+    },
+    {
+      "name": "JavaScript",
+      "total_seconds": 326,
+      "text": "5 mins",
+      "percent": 2.673007543456871
+    },
+    {
+      "name": "INI",
+      "total_seconds": 319,
+      "text": "5 mins",
+      "percent": 2.6156116759593306
+    },
+    {
+      "name": "PowerShell",
+      "total_seconds": 209,
+      "text": "3 mins",
+      "percent": 1.7136766152836995
+    },
+    {
+      "name": "Batchfile",
+      "total_seconds": 175,
+      "text": "2 mins",
+      "percent": 1.4348966874385045
+    },
+    {
+      "name": "Smarty",
+      "total_seconds": 135,
+      "text": "2 mins",
+      "percent": 1.1069203017382747
+    },
+    {
+      "name": "Docker",
+      "total_seconds": 120,
+      "text": "2 mins",
+      "percent": 0.9839291571006887
+    }
+  ],
+  "total_seconds": 12196,
+  "human_readable_total": "3 hrs 23 mins",
+  "last_updated": "2025-09-17T14:21:32.752682"
+}
