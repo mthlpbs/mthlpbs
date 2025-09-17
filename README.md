@@ -13,6 +13,14 @@
 
 <details>
     <summary><h3>🕰️ WakaTime Coding Stats</h3></summary>
+  
+  ### 📊 Languages This Week
+  ```
+  <!-- WAKATIME-LANGUAGES:START -->
+  <!-- WAKATIME-LANGUAGES:END -->
+  ```
+  
+  ### 📈 Overall Stats
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=hackatime.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact&hide_title=true" alt="WakaTime Stats">
   </p>
