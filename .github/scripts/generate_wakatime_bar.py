@@ -145,7 +145,6 @@ def main():
     print("```")
     print(f"**Total Time This Week:** {weekly_total}")
     print()
-    print(f"*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*")
     
     # Ensure proper UTF-8 output
     if hasattr(sys.stdout, 'reconfigure'):
