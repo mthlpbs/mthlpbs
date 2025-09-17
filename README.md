@@ -28,11 +28,6 @@ YAML         0 hrs 08 mins ░░░░░░░░░░░░░░░░░�
 *Last updated: 2025-09-17 14:29:37 UTC*
 <!-- WAKATIME-LANGUAGES:END -->
   
-  ### 📈 Overall Stats
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=hackatime.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact&hide_title=true" alt="WakaTime Weekly Stats">
-  </p>
-  
   ### 📈 All-Time Overview
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=hackatime.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
