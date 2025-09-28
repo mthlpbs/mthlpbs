@@ -23,7 +23,7 @@ DTD          0 hrs 23 mins █░░░░░░░░░░░░░░░░�
 JSON         0 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
 JavaScript    0 hrs 9 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   2.80%
 ```
-**Total Time This Week:** 9 hrs 39 mins
+**Total Time This Week:** 9 hrs 43 mins
 <!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 All-Time Overview
