@@ -23,7 +23,7 @@ CSS          0 hrs 16 mins ░░░░░░░░░░░░░░░░░�
 Markdown     0 hrs 13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 JSON         0 hrs 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 ```
-**Total Time This Week:** 17 hrs 31 mins
+**Total Time This Week:** 17 hrs 40 mins
 <!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 All-Time Overview
