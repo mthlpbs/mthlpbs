@@ -23,7 +23,7 @@ unknown      0 hrs 32 mins ░░░░░░░░░░░░░░░░░�
 Text         0 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98%
 Markdown     0 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 ```
-**Total Time This Week:** 24 hrs 52 mins
+**Total Time This Week:** 24 hrs 28 mins
 <!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 All-Time Overview
