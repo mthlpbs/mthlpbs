@@ -23,7 +23,7 @@ Text          0 hrs 2 mins ░░░░░░░░░░░░░░░░░�
 Powershell    0 hrs 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 Unknown       0 hrs 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 ```
-**Total Time This Week:** 12 hrs 14 mins
+**Total Time This Week:** 12 hrs 16 mins
 <!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 All-Time Overview
