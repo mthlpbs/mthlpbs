@@ -17,10 +17,10 @@
   <!-- WAKATIME-LANGUAGES:START -->
 📊 **This Week's Coding Languages:**
 ```
-Python       4 hrs 17 mins ████████████████████████░  99.16%
-Markdown      0 hrs 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
+Python        6 hrs 4 mins ████████████████████████░  99.40%
+Markdown      0 hrs 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.60%
 ```
-**Total Time This Week:** 6 hrs 5 mins
+**Total Time This Week:** 8 hrs 43 mins
 <!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 All-Time Overview
