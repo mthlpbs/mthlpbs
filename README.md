@@ -23,7 +23,7 @@ JavaScript    0 hrs 5 mins ░░░░░░░░░░░░░░░░░�
 Csv           0 hrs 3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 Text          0 hrs 3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
 ```
-**Total Time This Week:** 9 hrs 29 mins
+**Total Time This Week:** 9 hrs 27 mins
 <!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 All-Time Overview
