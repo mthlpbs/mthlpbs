@@ -23,7 +23,7 @@ Unknown       0 hrs 6 mins ░░░░░░░░░░░░░░░░░�
 Csv           0 hrs 3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
 Text          0 hrs 3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 ```
-**Total Time This Week:** 8 hrs 33 mins
+**Total Time This Week:** 8 hrs 35 mins
 <!-- WAKATIME-LANGUAGES:END -->
   
   ### 📈 All-Time Overview
