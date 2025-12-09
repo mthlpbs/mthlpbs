@@ -25,12 +25,9 @@ jobs:
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
         run: markscribe -write readme.md templates/readme.md.tpl
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README.md
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+      - name: Commit and push if changed
+        run: |
+          git config user.name "readme-scribe 🤖"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update generated README" && git push)
