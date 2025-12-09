@@ -15,29 +15,29 @@
 
 ```text
 💾 Languages:
-Python            12h 57m 30s   █████████████████████░░░░  81.21%
-Markdown          1h 15m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+Python            12h 57m 30s   █████████████████████░░░░  81.11%
+Markdown          1h 15m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
 Go                22m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
 JSON              22m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
-Smarty            17m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+Smarty            18m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
 
 💼 Projects:
-keep              14h 23m 29s   ███████████████████████░░  90.90%
-mthlpbs           29m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+keep              14h 23m 29s   ███████████████████████░░  90.82%
+mthlpbs           30m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
 markscribe        27m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
 170243210         21m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
 obsidian-valuts   2m 34s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.27%
 
-Total: 32 hrs 10 mins
+Total: 32 hrs 13 mins
 ```
 
 <details>
     <summary><h6>For more details, click to expand</h6></summary>
-        <p align="left">
+    <p align="left">
         
         #### 📈 All-Time Overview
-            <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
-        </p>
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
+    </p>
 </details>
 
 ---
