@@ -15,29 +15,27 @@
 
 ```text
 💾 Languages:
-Python            12h 57m 30s   █████████████████████░░░░  81.67%
-Markdown          1h 15m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
-Go                22m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
+Python            12h 57m 30s   █████████████████████░░░░  81.51%
+Markdown          1h 15m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
+Go                22m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
 JSON              22m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
-YAML              14m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+YAML              14m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
 
 💼 Projects:
-keep              14h 23m 29s   ███████████████████████░░  91.42%
+keep              14h 23m 29s   ███████████████████████░░  91.23%
 markscribe        27m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
-mthlpbs           23m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+mthlpbs           25m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
 170243210         21m 6s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
 obsidian-valuts   2m 34s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.27%
 
-Total: 32 hrs 3 mins
+Total: 32 hrs 5 mins
 ```
 
 <details>
-    <summary><h4>🕰️ WakaTime Coding Stats</h4></summary>
-  
-  ### 📈 All-Time Overview
-  <p align="left">
-    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
-  </p>
+    <summary><h4>📈 All-Time Overview</h4></summary>
+        <p align="left">
+            <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
+        </p>
 </details>
 
 ---
