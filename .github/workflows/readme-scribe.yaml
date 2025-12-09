@@ -12,17 +12,18 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: 'actions-go/go-install@main'
-        id: install
-        with:
-          module: "github.com/mthlpbs/markscribe@HEAD"
+      - name: Install markscribe
+        run: |
+          export GOPROXY=direct
+          go install github.com/mthlpbs/markscribe@8dc7f16
+          echo "${HOME}/go/bin" >> $GITHUB_PATH
 
       - name: generate readme
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
-        run: ${{ steps.install.outputs.install-path }} -write README.md templates/README.md.tpl
+        run: markscribe -write README.md templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
