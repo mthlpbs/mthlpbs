@@ -1,16 +1,4 @@
 
-### 📊 GitHub Stats
-<table align="center" width="100%" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthlpbs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=false" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mthlpbs&theme=github_dark&hide_border=true" alt="Streak Stats"/> 
-    </td>
-  </tr>
-</table>
-
 <details>
     <summary><h3>🕰️ WakaTime Coding Stats</h3></summary>
   
@@ -28,7 +16,8 @@ Unknown       0 hrs 5 mins ░░░░░░░░░░░░░░░░░�
   
   ### 📈 All-Time Overview
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=hackatime.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
+    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
+    
   </p>
 </details>
 
