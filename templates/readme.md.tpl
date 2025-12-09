@@ -18,11 +18,11 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 
 <details>
     <summary><h6>For more details, click to expand</h6></summary>
-        <p align="left">
+    <p align="left">
         
         #### 📈 All-Time Overview
-            <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
-        </p>
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
+    </p>
 </details>
 
 ---
