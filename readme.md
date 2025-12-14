@@ -1,34 +1,35 @@
 #### 👷 The latest repos i've pushed to
 
-- [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your ❤️  videos forever! "_ **(5 days ago)**
+- [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your ❤️  videos forever! "_ **(today)**
+- [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(today)**
 - [`ai-chat-application`](https://github.com/asurpbs/ai-chat-application) - _"Modern Chat Application A responsive web-based AI assistant with markdown support, syntax highlighting, and theme switching that stores conversations locally for seamless interactions across devices."_ **(2 months ago)**
 - [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_ **(4 months ago)**
 
 #### ⌨️ My latest projects
 
+- [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your ❤️  videos forever! "_
 - [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_
 - [`Audyo`](https://github.com/mthlpbs/Audyo) - _"The simple implementation of playlist-based music player"_
-- [`Data-Strucutre-Algorithm`](https://github.com/mthlpbs/Data-Strucutre-Algorithm) - _"This is the repo where i stores algorithms that i wrote in Data Structure & Algorithm module "_
 
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
 💾 Languages:
-Python        2h 54m 25s   █████████████░░░░░░░░░░░░  51.59%
-Markdown      1h 17m 15s   ██████░░░░░░░░░░░░░░░░░░░  22.85%
-Go            22m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
-Smarty        20m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-YAML          14m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+Python        2h 56m 37s   █████████████░░░░░░░░░░░░  51.80%
+Markdown      1h 17m 15s   ██████░░░░░░░░░░░░░░░░░░░  22.66%
+Go            22m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+Smarty        20m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
+YAML          14m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
 
 💼 Projects:
-keep          4h 4m 30s    ███████████████████░░░░░░  73.27%
-mthlpbs       31m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.55%
-markscribe    27m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
-170243210     21m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
-.playground   4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+keep          4h 6m 41s    ███████████████████░░░░░░  72.78%
+mthlpbs       31m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.41%
+markscribe    27m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
+170243210     21m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
+.playground   4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
 
-Total: 12 hrs 10 mins
+Total: 12 hrs 24 mins
 ```
 
 <details>
