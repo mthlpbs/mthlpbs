@@ -8,11 +8,6 @@
 - [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
-#### 🗒️ the latest posts from my [blog](https://mthlpbs.me)
-{{range rss "https://mthlpbs.me/rss.xml" 3}}
-- [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
-{{end}}
-
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
