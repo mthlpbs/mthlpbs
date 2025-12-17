@@ -12,6 +12,11 @@
 - [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_
 - [`Audyo`](https://github.com/mthlpbs/Audyo) - _"The simple implementation of playlist-based music player"_
 
+#### 🗒️ the latest posts from my [blog](https://mthlpbs.me)
+
+- [`Hello World, Welcome to my site!`](https://mthlpbs.github.io/blog/welcome) **(1 day ago)**
+
+
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
