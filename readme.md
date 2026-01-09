@@ -1,5 +1,6 @@
 #### 👷 The latest repos i've pushed to
 
+- [`ALT-Code-Gboard-Dictionary`](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) - _"Enhance your typing experience with Alt Codes for Gboard. This repo provides easy-to-use shortcuts, allowing you to insert special symbols and characters effortlessly. Compatible with both Android and iOS."_ **(today)**
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your ❤️  videos forever! "_ **(3 weeks ago)**
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(3 weeks ago)**
 - [`ai-chat-application`](https://github.com/asurpbs/ai-chat-application) - _"Modern Chat Application A responsive web-based AI assistant with markdown support, syntax highlighting, and theme switching that stores conversations locally for seamless interactions across devices."_ **(3 months ago)**
@@ -16,19 +17,19 @@
 
 ```text
 💾 Languages:
-JSON               3m 53s   ████████░░░░░░░░░░░░░░░░░  28.46%
-Python             3m 33s   ███████░░░░░░░░░░░░░░░░░░  26.02%
-Markdown           2m 13s   █████░░░░░░░░░░░░░░░░░░░░  16.26%
-Text               2m 0s    ████░░░░░░░░░░░░░░░░░░░░░  14.63%
-Unknown            2m 0s    ████░░░░░░░░░░░░░░░░░░░░░  14.63%
+Text               4m 14s   ███████░░░░░░░░░░░░░░░░░░  25.99%
+JSON               3m 53s   ██████░░░░░░░░░░░░░░░░░░░  23.81%
+Python             3m 33s   ██████░░░░░░░░░░░░░░░░░░░  21.77%
+Markdown           2m 38s   █████░░░░░░░░░░░░░░░░░░░░  16.20%
+Unknown            2m 0s    ████░░░░░░░░░░░░░░░░░░░░░  12.24%
 
 💼 Projects:
-DjangoPlayGround   5m 27s   ████████████░░░░░░░░░░░░░  46.69%
-obsidian-valuts    2m 13s   █████░░░░░░░░░░░░░░░░░░░░  19.05%
-research           2m 0s    █████░░░░░░░░░░░░░░░░░░░░  17.13%
-.playground        2m 0s    █████░░░░░░░░░░░░░░░░░░░░  17.13%
+DjangoPlayGround   7m 41s   ██████████████░░░░░░░░░░░  53.66%
+obsidian-valuts    2m 38s   █████░░░░░░░░░░░░░░░░░░░░  18.45%
+research           2m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.94%
+.playground        2m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.94%
 
-Total: 0 hrs 31 mins
+Total: 0 hrs 40 mins
 ```
 
 <details>
