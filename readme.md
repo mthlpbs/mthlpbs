@@ -20,7 +20,7 @@
 
 💼 Projects:
 
-Total: 0 hrs 0 mins
+Total: 0 hrs 2 mins
 ```
 
 <details>
