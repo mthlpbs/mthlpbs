@@ -17,10 +17,12 @@
 
 ```text
 💾 Languages:
+JSON      5m 29s   █████████████████████████  100.00%
 
 💼 Projects:
+.htdocs   5m 29s   █████████████████████████  100.00%
 
-Total: 0 hrs 2 mins
+Total: 0 hrs 9 mins
 ```
 
 <details>
