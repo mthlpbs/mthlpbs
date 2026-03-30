@@ -25,12 +25,11 @@ Total: {{ wakatimeData.HumanReadableTotal }}
   #### 📈 All-Time Overview
   <p align="left">
     <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
-    
   </p>
 
 
   #### 🔥 Coding Heatmap in Last 365 Days
-        <img src="https://heatmap.shymike.dev/?id=5771&timezone=Asia%2FColombo&labels=true&theme=dark" alt="Heatmap">
+  ![Heatmap](https://heatmap.shymike.dev/?id=5771&timezone=Asia%2FColombo&labels=true&theme=dark)
 </details>
 
 ---
