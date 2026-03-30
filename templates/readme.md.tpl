@@ -11,7 +11,7 @@
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects or Workspace:" wakatimeData.Projects 5 }}
 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
@@ -29,14 +29,11 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 
 
   #### 🔥 Coding Heatmap in Last 365 Days
-    <p>
-        <a href="https://heatmap.shymike.dev?id=5771&timezone=Asia%2FColombo&labels=true&standalone=true" title="Click to view detailed data for each day!">
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=5771&timezone=Asia%2FColombo&labels=true&theme=dark">
-                <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=5771&timezone=Asia%2FColombo&labels=true&theme=light">
-            </picture>
-        </a>
     </p>
+      <p align="left">
+        <img src="https://heatmap.shymike.dev/?id=5771&timezone=Asia%2FColombo&labels=true&theme=dark" alt="Heatmap">
+        
+      </p>
 </details>
 
 ---
