@@ -11,7 +11,7 @@
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects or Workspaces:" wakatimeData.Projects 5 }}
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "}}
 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
@@ -29,11 +29,7 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 
 
   #### 🔥 Coding Heatmap in Last 365 Days
-    </p>
-      <p align="left">
         <img src="https://heatmap.shymike.dev/?id=5771&timezone=Asia%2FColombo&labels=true&theme=dark" alt="Heatmap">
-        
-      </p>
 </details>
 
 ---
