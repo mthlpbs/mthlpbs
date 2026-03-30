@@ -23,13 +23,6 @@ unknown      10m 0s       █░░░░░░░░░░░░░░░░░
 HTML         5m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
 Text         4m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.02%
 
-💼 Projects or Workspaces:
-seleniumPy   4h 56m 12s   █████████████████░░░░░░░░  66.19%
-python       1h 5m 52s    ████░░░░░░░░░░░░░░░░░░░░░  14.72%
-py           58m 15s      ████░░░░░░░░░░░░░░░░░░░░░  13.02%
-Projects     23m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-sql          4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
-
 Total: 7 hrs 32 mins
 ```
 
@@ -46,11 +39,7 @@ Total: 7 hrs 32 mins
 
 
   #### 🔥 Coding Heatmap in Last 365 Days
-    </p>
-      <p align="left">
         <img src="https://heatmap.shymike.dev/?id=5771&timezone=Asia%2FColombo&labels=true&theme=dark" alt="Heatmap">
-        
-      </p>
 </details>
 
 ---
