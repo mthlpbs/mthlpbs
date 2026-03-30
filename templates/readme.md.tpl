@@ -11,7 +11,8 @@
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
-{{ wakatimeCategoryBar "💾 Languages:" wakatimeData.Languages 5}}
+💾 Languages:
+{{ wakatimeCategoryBar 5 wakatimeData.Languages }}
 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
