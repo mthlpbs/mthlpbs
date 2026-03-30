@@ -43,6 +43,17 @@ Total: 7 hrs 32 mins
     <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5771&api_domain=hackatime.hackclub.com&&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=All%20Time%20Stats&layout=compact&hide_title=true&range=all_time" alt="WakaTime All-Time Stats">
     
   </p>
+
+
+  #### 🔥 Coding Heatmap in Last 365 Days
+    <p>
+        <a href="https://heatmap.shymike.dev?id=5771&timezone=Asia%2FColombo&labels=true&standalone=true" title="Click to view detailed data for each day!">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=5771&timezone=Asia%2FColombo&labels=true&theme=dark">
+                <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=5771&timezone=Asia%2FColombo&labels=true&theme=light">
+            </picture>
+        </a>
+    </p>
 </details>
 
 ---
