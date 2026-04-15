@@ -1,5 +1,6 @@
 #### 👷 The latest repos i've pushed to
 
+- [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_ **(today)**
 - [`ALT-Code-Gboard-Dictionary`](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) - _"Enhance your typing experience with Alt Codes for Gboard. This repo provides easy-to-use shortcuts, allowing you to insert special symbols and characters effortlessly. Compatible with both Android and iOS."_ **(3 months ago)**
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_ **(4 months ago)**
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(4 months ago)**
@@ -8,22 +9,22 @@
 
 #### ⌨️ My latest projects
 
+- [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_
 - [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_
-- [`Audyo`](https://github.com/mthlpbs/Audyo) - _"The simple implementation of playlist-based music player"_
 
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
 💾 Languages:
-SQL          7h 33m 18s   █████████████████████░░░░  81.95%
-JavaScript   1h 15m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.60%
-HTML         10m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
-unknown      6m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
-Mason        6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
+SQL          7h 33m 18s   ████████████████████░░░░░  79.81%
+JavaScript   1h 25m 11s   ████░░░░░░░░░░░░░░░░░░░░░  15.00%
+HTML         10m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
+unknown      8m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
+Mason        6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
 
-Total: 9 hrs 15 mins
+Total: 9 hrs 34 mins
 ```
 
 <details>
@@ -64,8 +65,8 @@ Total: 9 hrs 15 mins
       <img align="center" src="https://www.svgrepo.com/show/450156/github.svg" alt="GitHub" height="20"/>
     </a>
     &nbsp; Others &nbsp;&nbsp;:&nbsp;&nbsp;
-    <a href="https://openuserjs.org/users/asurpbs" target="_blank">
-      <img align="center" src="https://openuserjs.org/images/favicon.ico" alt="OpenUserJS" height="20"/>
+    <a href="https://greasyfork.org/en/users/1490967-mthlpbs" target="_blank">
+      <img align="center" src="https://greasyfork.org/vite/assets/blacklogo96-CxYTSM_T.png" alt="Greasy Fork" height="20"/>
     </a>
     &nbsp;
     <a href="https://stackoverflow.com/users/19565278/mthlpbs" target="_blank">
