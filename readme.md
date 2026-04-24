@@ -1,6 +1,6 @@
 #### 👷 The latest repos i've pushed to
 
-- [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_ **(6 days ago)**
+- [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_ **(1 week ago)**
 - [`ALT-Code-Gboard-Dictionary`](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) - _"Enhance your typing experience with Alt Codes for Gboard. This repo provides easy-to-use shortcuts, allowing you to insert special symbols and characters effortlessly. Compatible with both Android and iOS."_ **(3 months ago)**
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_ **(4 months ago)**
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(4 months ago)**
