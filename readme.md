@@ -5,7 +5,7 @@
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_ **(4 months ago)**
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(4 months ago)**
 - [`ai-chat-application`](https://github.com/asurpbs/ai-chat-application) - _"Modern Chat Application A responsive web-based AI assistant with markdown support, syntax highlighting, and theme switching that stores conversations locally for seamless interactions across devices."_ **(7 months ago)**
-- [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_ **(8 months ago)**
+- [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_ **(9 months ago)**
 
 #### ⌨️ My latest projects
 
@@ -18,13 +18,13 @@
 
 ```text
 💾 Languages:
-SQL        4h 24m 8s    ███████████████░░░░░░░░░░  59.07%
-MySQL      1h 49m 30s   ███████░░░░░░░░░░░░░░░░░░  24.49%
-Python     24m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
-Markdown   22m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
-unknown    17m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+SQL        4h 24m 8s    ███████████████░░░░░░░░░░  57.65%
+MySQL      1h 49m 30s   ██████░░░░░░░░░░░░░░░░░░░  23.90%
+Markdown   34m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
+Python     24m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+unknown    17m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
 
-Total: 7 hrs 23 mins
+Total: 7 hrs 34 mins
 ```
 
 <details>
