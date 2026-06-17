@@ -18,12 +18,9 @@
 
 ```text
 💾 Languages:
-JavaScript   53m 58s   █████████████████████░░░░  81.01%
-Mason        8m 10s    ████░░░░░░░░░░░░░░░░░░░░░  12.26%
-Python       2m 29s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
-Text         2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
 
-Total: 1 hrs 9 mins
+
+Total: 0 hrs 0 mins
 ```
 
 <details>
