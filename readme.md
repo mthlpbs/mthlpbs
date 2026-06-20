@@ -18,9 +18,11 @@
 
 ```text
 💾 Languages:
+unknown      4m 27s   ███████████░░░░░░░░░░░░░░  43.00%
+JavaScript   3m 54s   ██████████░░░░░░░░░░░░░░░  37.68%
+JSON         2m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.32%
 
-
-Total: 0 hrs 0 mins
+Total: 0 hrs 8 mins
 ```
 
 <details>
