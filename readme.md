@@ -5,7 +5,6 @@
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_ **(7 months ago)**
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(7 months ago)**
 - [`ai-chat-application`](https://github.com/asurpbs/ai-chat-application) - _"Modern Chat Application A responsive web-based AI assistant with markdown support, syntax highlighting, and theme switching that stores conversations locally for seamless interactions across devices."_ **(10 months ago)**
-- [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_ **(1 year ago)**
 
 #### ⌨️ My latest projects
 
@@ -18,13 +17,13 @@
 
 ```text
 💾 Languages:
-unknown      5h 48m 1s    ███████░░░░░░░░░░░░░░░░░░  27.17%
-HTML         5h 47m 51s   ███████░░░░░░░░░░░░░░░░░░  27.16%
-Python       5h 36m 15s   ███████░░░░░░░░░░░░░░░░░░  26.25%
-Markdown     2h 24m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  11.31%
-PowerShell   1h 15m 45s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+HTML         5h 47m 51s   ████████░░░░░░░░░░░░░░░░░  28.33%
+unknown      5h 36m 34s   ███████░░░░░░░░░░░░░░░░░░  27.41%
+Python       5h 12m 38s   ███████░░░░░░░░░░░░░░░░░░  25.46%
+Markdown     2h 24m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
+PowerShell   1h 2m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
 
-Total: 14 hrs 8 mins
+Total: 13 hrs 27 mins
 ```
 
 <details>
