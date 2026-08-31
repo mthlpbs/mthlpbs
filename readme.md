@@ -17,13 +17,9 @@
 
 ```text
 💾 Languages:
-JavaScript    30m 7s    ████████░░░░░░░░░░░░░░░░░  30.11%
-unknown       25m 12s   ███████░░░░░░░░░░░░░░░░░░  25.19%
-Python        16m 55s   █████░░░░░░░░░░░░░░░░░░░░  16.91%
-PowerShell    15m 7s    ████░░░░░░░░░░░░░░░░░░░░░  15.11%
-Ignore List   8m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
+Ignore List   6m 41s   █████████████████████████  100.00%
 
-Total: 1 hrs 11 mins
+Total: 0 hrs 9 mins
 ```
 
 <details>
