@@ -17,9 +17,9 @@
 
 ```text
 💾 Languages:
-Ignore List   6m 41s   █████████████████████████  100.00%
+Ignore List   4m 41s   █████████████████████████  100.00%
 
-Total: 0 hrs 9 mins
+Total: 0 hrs 7 mins
 ```
 
 <details>
