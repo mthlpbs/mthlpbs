@@ -17,9 +17,12 @@
 
 ```text
 💾 Languages:
-Ignore List   7m 30s   █████████████████████████  100.00%
+Ignore List   11m 30s   ████████████████░░░░░░░░░  63.24%
+Python        2m 49s    ████░░░░░░░░░░░░░░░░░░░░░  15.49%
+unknown       2m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
+HTML          1m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
 
-Total: 0 hrs 10 mins
+Total: 0 hrs 18 mins
 ```
 
 <details>
