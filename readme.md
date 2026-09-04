@@ -1,6 +1,6 @@
 #### 👷 The latest repos i've pushed to
 
-- [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_ **(1 week ago)**
+- [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_ **(today)**
 - [`ALT-Code-Gboard-Dictionary`](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) - _"Enhance your typing experience with Alt Codes for Gboard. This repo provides easy-to-use shortcuts, allowing you to insert special symbols and characters effortlessly. Compatible with both Android and iOS."_ **(7 months ago)**
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_ **(8 months ago)**
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(8 months ago)**
@@ -17,12 +17,13 @@
 
 ```text
 💾 Languages:
-unknown       46m 53s   ██████████░░░░░░░░░░░░░░░  37.13%
-HTML          42m 46s   █████████░░░░░░░░░░░░░░░░  33.87%
-Ignore List   33m 48s   ███████░░░░░░░░░░░░░░░░░░  26.77%
-Python        2m 49s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
+unknown       1h 33m 5s   ██████████░░░░░░░░░░░░░░░  38.42%
+HTML          57m 4s      ██████░░░░░░░░░░░░░░░░░░░  23.55%
+Ignore List   35m 48s     ████░░░░░░░░░░░░░░░░░░░░░  14.78%
+JavaScript    33m 8s      ████░░░░░░░░░░░░░░░░░░░░░  13.67%
+Python        9m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
 
-Total: 1 hrs 35 mins
+Total: 2 hrs 51 mins
 ```
 
 <details>
