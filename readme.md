@@ -4,7 +4,6 @@
 - [`ALT-Code-Gboard-Dictionary`](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) - _"Enhance your typing experience with Alt Codes for Gboard. This repo provides easy-to-use shortcuts, allowing you to insert special symbols and characters effortlessly. Compatible with both Android and iOS."_ **(8 months ago)**
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_ **(9 months ago)**
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_ **(9 months ago)**
-- [`ai-chat-application`](https://github.com/asurpbs/ai-chat-application) - _"Modern Chat Application A responsive web-based AI assistant with markdown support, syntax highlighting, and theme switching that stores conversations locally for seamless interactions across devices."_ **(1 year ago)**
 
 #### ⌨️ My latest projects
 
@@ -17,13 +16,13 @@
 
 ```text
 💾 Languages:
-unknown      1h 11m 56s   █████████████████░░░░░░░░  66.41%
-Python       16m 24s      ████░░░░░░░░░░░░░░░░░░░░░  15.14%
-JavaScript   8m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
-Batchfile    4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
-HTML         3m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+unknown      1h 4m 4s   ██████████████████░░░░░░░  70.30%
+Python       9m 5s      ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
+JavaScript   8m 15s     ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
+Batchfile    4m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+HTML         3m 36s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
 
-Total: 1 hrs 52 mins
+Total: 1 hrs 35 mins
 ```
 
 <details>
