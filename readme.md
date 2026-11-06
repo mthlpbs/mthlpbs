@@ -7,22 +7,22 @@
 
 #### ⌨️ My latest projects
 
+- [`Lumo`](https://github.com/mthlpbs/Lumo) - _""_
 - [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_
-- [`sola-chemicals-ecommerce-platform`](https://github.com/mthlpbs/sola-chemicals-ecommerce-platform) - _"This is a web project that was done for Sola Chemicals PVT. LTD as part of the Group Project in the Programming module during sophomore year."_
 
 #### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/) stats from the last week
 
 ```text
 💾 Languages:
-Rust         3h 48m 22s   ████████░░░░░░░░░░░░░░░░░  29.06%
-unknown      3h 44m 33s   ████████░░░░░░░░░░░░░░░░░  28.57%
-Python       1h 25m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
-Markdown     1h 13m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
-PowerShell   54m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
+Rust         3h 48m 22s   ████████░░░░░░░░░░░░░░░░░  28.82%
+unknown      3h 44m 33s   ████████░░░░░░░░░░░░░░░░░  28.33%
+Python       1h 25m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.79%
+Markdown     1h 16m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
+PowerShell   54m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
 
-Total: 10 hrs 17 mins
+Total: 10 hrs 20 mins
 ```
 
 <details>
