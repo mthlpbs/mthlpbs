@@ -1,6 +1,6 @@
 #### 👷 The latest repos i've pushed to
 
-- [`Lumo`](https://github.com/mthlpbs/Lumo) - _""_ **(today)**
+- [`Lumo`](https://github.com/mthlpbs/Lumo) - _"A living island for Windows"_ **(today)**
 - [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_ **(2 weeks ago)**
 - [`ALT-Code-Gboard-Dictionary`](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) - _"Enhance your typing experience with Alt Codes for Gboard. This repo provides easy-to-use shortcuts, allowing you to insert special symbols and characters effortlessly. Compatible with both Android and iOS."_ **(10 months ago)**
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_ **(10 months ago)**
@@ -8,7 +8,7 @@
 
 #### ⌨️ My latest projects
 
-- [`Lumo`](https://github.com/mthlpbs/Lumo) - _""_
+- [`Lumo`](https://github.com/mthlpbs/Lumo) - _"A living island for Windows"_
 - [`sinflix-modifier`](https://github.com/mthlpbs/sinflix-modifier) - _"Enhance sinflix site with different tweaks"_
 - [`dotfiles`](https://github.com/mthlpbs/dotfiles) - _"configuration files"_
 - [`Keep`](https://github.com/mthlpbs/Keep) - _"Download and keep your favourite  videos forever! "_
@@ -17,13 +17,13 @@
 
 ```text
 💾 Languages:
-unknown      3h 28m 37s   ███████░░░░░░░░░░░░░░░░░░  27.57%
-Rust         2h 40m 53s   ██████░░░░░░░░░░░░░░░░░░░  21.27%
-Python       1h 28m 12s   ███░░░░░░░░░░░░░░░░░░░░░░  11.66%
-Markdown     1h 21m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
-PowerShell   1h 3m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
+unknown      3h 46m 19s   ███████░░░░░░░░░░░░░░░░░░  26.97%
+Rust         3h 8m 43s    ██████░░░░░░░░░░░░░░░░░░░  22.49%
+Python       1h 37m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
+Markdown     1h 28m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
+PowerShell   1h 6m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
 
-Total: 9 hrs 19 mins
+Total: 10 hrs 17 mins
 ```
 
 <details>
