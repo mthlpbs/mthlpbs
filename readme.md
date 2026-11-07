@@ -56,18 +56,18 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**10 hrs 19 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**10 hrs 49 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <table>
   <thead>
     <tr><th scope="col">Language</th><th scope="col">Time</th><th scope="col">Share</th></tr>
   </thead>
   <tbody>
-    <tr><td>unknown</td><td>3h 48m 19s</td><td>27.1%</td></tr>
-    <tr><td>Rust</td><td>3h 8m 43s</td><td>22.4%</td></tr>
-    <tr><td>Python</td><td>1h 37m 21s</td><td>11.6%</td></tr>
-    <tr><td>Markdown</td><td>1h 28m 54s</td><td>10.6%</td></tr>
-    <tr><td>PowerShell</td><td>1h 6m 29s</td><td>7.9%</td></tr>
+    <tr><td>unknown</td><td>3 hrs 53 mins</td><td>26.4%</td></tr>
+    <tr><td>Rust</td><td>3 hrs 8 mins</td><td>21.4%</td></tr>
+    <tr><td>Markdown</td><td>1 hrs 46 mins</td><td>12.0%</td></tr>
+    <tr><td>Python</td><td>1 hrs 42 mins</td><td>11.6%</td></tr>
+    <tr><td>PowerShell</td><td>1 hrs 6 mins</td><td>7.5%</td></tr>
   </tbody>
 </table>
 
