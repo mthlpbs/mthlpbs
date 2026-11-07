@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" fill="none">
+  <title>mthlpbs</title>
+  <desc>Small tools. Everyday improvements. An illustration of a desktop island and a browser utility.</desc>
+  <rect x=".5" y=".5" width="959" height="219" rx="18" fill="#101f30" stroke="#294057"/>
+  <path d="M0 172H960M608 0V220" stroke="#294057"/>
+  <circle cx="48" cy="45" r="5" fill="#50d4b7"/>
+  <text x="65" y="51" fill="#a9c1d7" font-family="Segoe UI,Arial,sans-serif" font-size="17">Small tools. Everyday improvements.</text>
+  <text x="42" y="132" fill="#e7f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="-3">mthlpbs<tspan fill="#50d4b7">.</tspan></text>
+  <text x="44" y="201" fill="#a9c1d7" font-family="Segoe UI,Arial,sans-serif" font-size="15">Windows utilities / Browser tweaks / Everyday tools</text>
+  <g stroke="#527995" stroke-width="1.5">
+    <path d="M653 57H684M668.5 41.5V72.5M884 168H915M899.5 152.5V183.5"/>
+    <circle cx="899" cy="40" r="3" fill="#527995" stroke="none"/>
+    <circle cx="648" cy="184" r="3" fill="#527995" stroke="none"/>
+  </g>
+  <rect x="700" y="34" width="204" height="137" rx="12" fill="#172d43" stroke="#527995"/>
+  <path d="M700 64H904" stroke="#294057"/>
+  <g fill="#527995"><circle cx="714" cy="49" r="3"/><circle cx="725" cy="49" r="3"/><circle cx="736" cy="49" r="3"/></g>
+  <path d="M751 92L737 105L751 118M784 92L798 105L784 118M773 87L762 123" stroke="#79c0ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M820 94H877M820 106H863M820 118H870" stroke="#527995" stroke-width="4" stroke-linecap="round"/>
+  <rect x="652" y="137" width="200" height="56" rx="28" fill="#e7f3ff"/>
+  <circle cx="681" cy="165" r="13" fill="#087f70"/>
+  <path d="M677 165H685M681 161V169" stroke="#e7f3ff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M710 159H764M710 171H743" stroke="#133756" stroke-width="4" stroke-linecap="round"/>
+  <path d="M800 171V159M807 175V155M814 168V162M821 172V158" stroke="#087f70" stroke-width="3" stroke-linecap="round"/>
+</svg>
