@@ -21,7 +21,8 @@ The scheduled workflow already reads these from repository secrets. Never put
 tokens in the template, generated README, or assets.
 
 Node.js 18 or newer is required for the dependency-free SVG generator. The
-generator sorts the languages, creates light and dark bar assets, and normalizes
+generator sorts the languages, creates a stacked bar and matching legend dots
+for light and dark themes, and normalizes
 the temporary JSON file. Both the README labels and SVGs use that one snapshot.
 Commit `assets/coding-bars/` along with the generated README. Never commit the
 temporary JSON file.
@@ -37,9 +38,10 @@ temporary JSON file.
   Icon sources and license information are in `assets/icons/README.md`.
 - The header is decorative. The introduction and project information remain
   readable when images are disabled. Keep its width fluid and its height automatic.
-- Coding bars are decorative SVGs with native text labels for the language,
-  time, and exact share. Widths use a 0–100% scale, not the largest language.
-  These are language-share charts, not task-completion controls.
+- The coding chart combines the five main languages in one stacked SVG bar.
+  Remaining activity appears as "Other languages". Small native text labels
+  and matching colored circles provide the legend; percentages are not shown.
+  This is a language-share chart, not a task-completion control.
 - Keep the layout readable on a 320 px screen. Detailed activity and
   external coding-history views live in disclosures to keep the main page short.
 - The former email link used a GitHub no-reply address. Add a contact link only

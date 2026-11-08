@@ -16,6 +16,7 @@ const fallbackColors = [
   ['#7664bd', '#b8a2f3'],
   ['#2476b5', '#79c0ff'],
 ];
+const otherColors = ['#c5ced8', '#526071'];
 
 export function normalizeStats(stats) {
   if (!stats || !Number.isFinite(stats.total_seconds) || stats.total_seconds < 0) {
@@ -24,7 +25,7 @@ export function normalizeStats(stats) {
   if (stats.languages != null && !Array.isArray(stats.languages)) {
     throw new Error('Coding stats languages must be an array.');
   }
-  const languages = (stats.languages ?? []).map(language => {
+  let languages = (stats.languages ?? []).map(language => {
     if (!language || !Number.isFinite(language.percent)) {
       throw new Error('Each language must include a numeric percentage.');
     }
@@ -33,21 +34,52 @@ export function normalizeStats(stats) {
       text: String(language.text ?? ''),
       percent: Math.min(100, Math.max(0, language.percent)),
     };
-  }).sort((a, b) => b.percent - a.percent).slice(0, 5);
+  }).filter(language => language.percent > 0)
+    .sort((a, b) => b.percent - a.percent).slice(0, 5);
+
+  if (stats.total_seconds === 0) languages = [];
+  const share = languages.reduce((sum, language) => sum + language.percent, 0);
+  const segments = languages.map(language => ({ ...language }));
+  if (segments.length && share < 100 - 0.001) {
+    segments.push({ name: 'Other languages', text: '', percent: 100 - share, other: true });
+  }
 
   return {
     total_seconds: stats.total_seconds,
     human_readable_total: String(stats.human_readable_total ?? ''),
-    languages: stats.total_seconds > 0 ? languages : [],
+    languages,
+    segments,
   };
 }
 
-export function renderBar(percent, color, track) {
-  const width = Number((barWidth * percent / 100).toFixed(3));
+function segmentColor(segment, index, themeIndex) {
+  if (segment?.other) return otherColors[themeIndex];
+  const key = segment?.name.toLowerCase();
+  const palette = Object.hasOwn(colors, key) ? colors[key] : fallbackColors[index % fallbackColors.length];
+  return palette[themeIndex];
+}
+
+export function renderStackedBar(segments, themeIndex, track) {
+  const total = segments.reduce((sum, segment) => sum + segment.percent, 0);
+  let offset = 0;
+  const rectangles = segments.map((segment, index) => {
+    const start = offset;
+    const width = total > 0 ? barWidth * segment.percent / total : 0;
+    offset += width;
+    return `    <rect x="${Number(start.toFixed(3))}" width="${Number(width.toFixed(3))}" height="${barHeight}" fill="${segmentColor(segment, index, themeIndex)}"/>`;
+  });
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${barWidth}" height="${barHeight}" viewBox="0 0 ${barWidth} ${barHeight}">
-  <title>${percent.toFixed(1)}% of tracked coding time</title>
+  <title>Weekly coding time by language</title>
+  <defs><clipPath id="bar"><rect width="${barWidth}" height="${barHeight}" rx="6"/></clipPath></defs>
   <rect width="${barWidth}" height="${barHeight}" rx="6" fill="${track}"/>
-${width > 0 ? `  <rect width="${width}" height="${barHeight}" rx="6" fill="${color}"/>\n` : ''}</svg>\n`;
+  <g clip-path="url(#bar)">
+${rectangles.join('\n')}
+  </g>
+</svg>\n`;
+}
+
+export function renderLegendDot(segment, index, themeIndex) {
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10"><circle cx="5" cy="5" r="5" fill="${segmentColor(segment, index, themeIndex)}"/></svg>\n`;
 }
 
 async function main() {
@@ -57,13 +89,11 @@ async function main() {
   const output = fileURLToPath(new URL('../assets/coding-bars/', import.meta.url));
   await mkdir(output, { recursive: true });
 
-  // Keep five stable file names, including on quiet weeks, to avoid stale bars.
-  for (let index = 0; index < 5; index++) {
-    const language = stats.languages[index];
-    const palette = colors[language?.name.toLowerCase()] ?? fallbackColors[index % fallbackColors.length];
-    for (const [theme, themeIndex, track] of [['light', 0, '#eaeef2'], ['dark', 1, '#212b36']]) {
-      const filename = `${index}-${theme}.svg`;
-      await writeFile(join(output, filename), renderBar(language?.percent ?? 0, palette[themeIndex], track));
+  for (const [theme, themeIndex, track] of [['light', 0, '#eaeef2'], ['dark', 1, '#212b36']]) {
+    await writeFile(join(output, `weekly-${theme}.svg`), renderStackedBar(stats.segments, themeIndex, track));
+    // Five languages and one optional remainder use stable legend file names.
+    for (let index = 0; index < 6; index++) {
+      await writeFile(join(output, `legend-${index}-${theme}.svg`), renderLegendDot(stats.segments[index], index, themeIndex));
     }
   }
   // The README consumes this exact snapshot so its labels match the bar widths.

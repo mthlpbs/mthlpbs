@@ -54,45 +54,21 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**10 hrs 19 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**10 hrs 49 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
+  <img src="assets/coding-bars/weekly-light.svg" width="600" alt="Weekly coding time by language. Color key below.">
+</picture>
 
 <p>
-  <strong>unknown</strong> &nbsp; 3h 48m 19s &nbsp; <strong>27.1%</strong><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/0-dark.svg">
-    <img src="assets/coding-bars/0-light.svg" width="600" alt="">
-  </picture>
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-0-dark.svg"><img src="assets/coding-bars/legend-0-light.svg" width="10" height="10" alt=""></picture>&nbsp;unknown</sub> &nbsp;
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-1-dark.svg"><img src="assets/coding-bars/legend-1-light.svg" width="10" height="10" alt=""></picture>&nbsp;Rust</sub> &nbsp;
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-2-dark.svg"><img src="assets/coding-bars/legend-2-light.svg" width="10" height="10" alt=""></picture>&nbsp;Markdown</sub> &nbsp;
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-3-dark.svg"><img src="assets/coding-bars/legend-3-light.svg" width="10" height="10" alt=""></picture>&nbsp;Python</sub> &nbsp;
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-4-dark.svg"><img src="assets/coding-bars/legend-4-light.svg" width="10" height="10" alt=""></picture>&nbsp;PowerShell</sub> &nbsp;
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-5-dark.svg"><img src="assets/coding-bars/legend-5-light.svg" width="10" height="10" alt=""></picture>&nbsp;Other languages</sub> &nbsp;
 </p>
-<p>
-  <strong>Rust</strong> &nbsp; 3h 8m 43s &nbsp; <strong>22.4%</strong><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/1-dark.svg">
-    <img src="assets/coding-bars/1-light.svg" width="600" alt="">
-  </picture>
-</p>
-<p>
-  <strong>Python</strong> &nbsp; 1h 37m 21s &nbsp; <strong>11.6%</strong><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/2-dark.svg">
-    <img src="assets/coding-bars/2-light.svg" width="600" alt="">
-  </picture>
-</p>
-<p>
-  <strong>Markdown</strong> &nbsp; 1h 28m 54s &nbsp; <strong>10.6%</strong><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/3-dark.svg">
-    <img src="assets/coding-bars/3-light.svg" width="600" alt="">
-  </picture>
-</p>
-<p>
-  <strong>PowerShell</strong> &nbsp; 1h 6m 29s &nbsp; <strong>7.9%</strong><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/4-dark.svg">
-    <img src="assets/coding-bars/4-light.svg" width="600" alt="">
-  </picture>
-</p>
-
-<sub>Top 5 languages. Each bar shows its share of all tracked coding time, as reported by Hackatime.</sub>
 
 
 

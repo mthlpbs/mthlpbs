@@ -45,20 +45,17 @@ My latest projects, from desktop experiments to browser improvements.
 {{- $stats := env "PROFILE_CODING_STATS" | fromJson}}
 {{if gt $stats.total_seconds 0.0}}
 **{{$stats.human_readable_total | html}}** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
-{{if $stats.languages}}
-{{- range $index, $language := $stats.languages}}
-{{- if lt $index 5}}
-<p>
-  <strong>{{$language.name | html}}</strong> &nbsp; {{$language.text | html}} &nbsp; <strong>{{printf "%.1f" $language.percent}}%</strong><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/{{$index}}-dark.svg">
-    <img src="assets/coding-bars/{{$index}}-light.svg" width="600" alt="">
-  </picture>
-</p>
-{{- end}}
-{{- end}}
+{{if $stats.segments}}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
+  <img src="assets/coding-bars/weekly-light.svg" width="600" alt="Weekly coding time by language. Color key below.">
+</picture>
 
-<sub>Top 5 languages. Each bar shows its share of all tracked coding time, as reported by Hackatime.</sub>
+<p>
+{{- range $index, $language := $stats.segments}}
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-{{$index}}-dark.svg"><img src="assets/coding-bars/legend-{{$index}}-light.svg" width="10" height="10" alt=""></picture>&nbsp;{{$language.name | html}}</sub> &nbsp;
+{{- end}}
+</p>
 {{end}}
 {{else}}
 No coding time was reported for the last 7 days. New activity will appear here after the next update.
