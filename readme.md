@@ -15,6 +15,10 @@ My latest projects, from desktop experiments to browser improvements.
 
 <ul>
   <li>
+    <p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
+    Explore the code and project details.</p>
+  </li>
+  <li>
     <p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
     A living island for Windows</p>
   </li>
@@ -26,10 +30,6 @@ My latest projects, from desktop experiments to browser improvements.
     <p><a href="https://github.com/mthlpbs/dotfiles"><strong>dotfiles</strong></a><br>
     configuration files</p>
   </li>
-  <li>
-    <p><a href="https://github.com/mthlpbs/Keep"><strong>Keep</strong></a><br>
-    Download and keep your favourite  videos forever! </p>
-  </li>
 </ul>
 
 [Browse all repositories](https://github.com/mthlpbs?tab=repositories)
@@ -40,13 +40,13 @@ My latest projects, from desktop experiments to browser improvements.
 <ul>
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
   Updated today</p></li>
+  <li><p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
+  Updated today</p></li>
+  <li><p><a href="https://github.com/mthlpbs/mthlpbs.github.io"><strong>mthlpbs.github.io</strong></a><br>
+  Updated 1 week ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
   Updated 3 weeks ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary"><strong>ALT-Code-Gboard-Dictionary</strong></a><br>
-  Updated 10 months ago</p></li>
-  <li><p><a href="https://github.com/mthlpbs/Keep"><strong>Keep</strong></a><br>
-  Updated 10 months ago</p></li>
-  <li><p><a href="https://github.com/mthlpbs/dotfiles"><strong>dotfiles</strong></a><br>
   Updated 10 months ago</p></li>
 </ul>
 
@@ -54,7 +54,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**13 hrs 29 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**13 hrs 21 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
