@@ -5,8 +5,6 @@
   <img src="assets/profile-light.svg" alt="" width="960">
 </picture>
 
-# Hi, I’m mthlpbs.
-
 I build Windows utilities, browser tweaks, and small tools that make everyday things a little easier.
 
 [Projects](#projects) · [Coding this week](#coding-this-week)
@@ -43,7 +41,7 @@ My latest projects, from desktop experiments to browser improvements.
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
   Updated today</p></li>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
-  Updated 2 weeks ago</p></li>
+  Updated 3 weeks ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary"><strong>ALT-Code-Gboard-Dictionary</strong></a><br>
   Updated 10 months ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/Keep"><strong>Keep</strong></a><br>
@@ -58,20 +56,43 @@ My latest projects, from desktop experiments to browser improvements.
 
 **10 hrs 19 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
-<table>
-  <thead>
-    <tr><th scope="col">Language</th><th scope="col">Time</th><th scope="col">Share</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>unknown</td><td>3h 48m 19s</td><td>27.1%</td></tr>
-    <tr><td>Rust</td><td>3h 8m 43s</td><td>22.4%</td></tr>
-    <tr><td>Python</td><td>1h 37m 21s</td><td>11.6%</td></tr>
-    <tr><td>Markdown</td><td>1h 28m 54s</td><td>10.6%</td></tr>
-    <tr><td>PowerShell</td><td>1h 6m 29s</td><td>7.9%</td></tr>
-  </tbody>
-</table>
+<p>
+  <strong>unknown</strong> &nbsp; 3h 48m 19s &nbsp; <strong>27.1%</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/0-dark.svg">
+    <img src="assets/coding-bars/0-light.svg" width="600" alt="">
+  </picture>
+</p>
+<p>
+  <strong>Rust</strong> &nbsp; 3h 8m 43s &nbsp; <strong>22.4%</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/1-dark.svg">
+    <img src="assets/coding-bars/1-light.svg" width="600" alt="">
+  </picture>
+</p>
+<p>
+  <strong>Python</strong> &nbsp; 1h 37m 21s &nbsp; <strong>11.6%</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/2-dark.svg">
+    <img src="assets/coding-bars/2-light.svg" width="600" alt="">
+  </picture>
+</p>
+<p>
+  <strong>Markdown</strong> &nbsp; 1h 28m 54s &nbsp; <strong>10.6%</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/3-dark.svg">
+    <img src="assets/coding-bars/3-light.svg" width="600" alt="">
+  </picture>
+</p>
+<p>
+  <strong>PowerShell</strong> &nbsp; 1h 6m 29s &nbsp; <strong>7.9%</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/4-dark.svg">
+    <img src="assets/coding-bars/4-light.svg" width="600" alt="">
+  </picture>
+</p>
 
-<sub>Top 5 languages by tracked time. Percentages are reported by Hackatime.</sub>
+<sub>Top 5 languages. Each bar shows its share of all tracked coding time, as reported by Hackatime.</sub>
 
 
 

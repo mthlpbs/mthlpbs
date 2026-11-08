@@ -6,7 +6,6 @@
   <circle cx="48" cy="45" r="5" fill="#087f70"/>
   <text x="65" y="51" fill="#38556f" font-family="Segoe UI,Arial,sans-serif" font-size="17">Small tools. Everyday improvements.</text>
   <text x="42" y="132" fill="#133756" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="-3">mthlpbs<tspan fill="#087f70">.</tspan></text>
-  <text x="44" y="201" fill="#38556f" font-family="Segoe UI,Arial,sans-serif" font-size="15">Windows utilities / Browser tweaks / Everyday tools</text>
   <g stroke="#7eabc9" stroke-width="1.5">
     <path d="M653 57H684M668.5 41.5V72.5M884 168H915M899.5 152.5V183.5"/>
     <circle cx="899" cy="40" r="3" fill="#7eabc9" stroke="none"/>

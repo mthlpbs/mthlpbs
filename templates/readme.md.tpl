@@ -5,8 +5,6 @@
   <img src="assets/profile-light.svg" alt="" width="960">
 </picture>
 
-# Hi, I’m mthlpbs.
-
 I build Windows utilities, browser tweaks, and small tools that make everyday things a little easier.
 
 [Projects](#projects) · [Coding this week](#coding-this-week)
@@ -44,24 +42,23 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-{{- $stats := wakatimeData}}
-{{if gt $stats.TotalSeconds 0.0}}
-**{{$stats.HumanReadableTotal | html}}** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
-{{if $stats.Languages}}
-<table>
-  <thead>
-    <tr><th scope="col">Language</th><th scope="col">Time</th><th scope="col">Share</th></tr>
-  </thead>
-  <tbody>
-{{- range $index, $language := $stats.Languages}}
+{{- $stats := env "PROFILE_CODING_STATS" | fromJson}}
+{{if gt $stats.total_seconds 0.0}}
+**{{$stats.human_readable_total | html}}** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+{{if $stats.languages}}
+{{- range $index, $language := $stats.languages}}
 {{- if lt $index 5}}
-    <tr><td>{{$language.Name | html}}</td><td>{{$language.Text | html}}</td><td>{{printf "%.1f" $language.Percent}}%</td></tr>
+<p>
+  <strong>{{$language.name | html}}</strong> &nbsp; {{$language.text | html}} &nbsp; <strong>{{printf "%.1f" $language.percent}}%</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/{{$index}}-dark.svg">
+    <img src="assets/coding-bars/{{$index}}-light.svg" width="600" alt="">
+  </picture>
+</p>
 {{- end}}
 {{- end}}
-  </tbody>
-</table>
 
-<sub>Top 5 languages by tracked time. Percentages are reported by Hackatime.</sub>
+<sub>Top 5 languages. Each bar shows its share of all tracked coding time, as reported by Hackatime.</sub>
 {{end}}
 {{else}}
 No coding time was reported for the last 7 days. New activity will appear here after the next update.

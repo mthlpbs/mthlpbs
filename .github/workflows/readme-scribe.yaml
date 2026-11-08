@@ -25,11 +25,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
-        run: markscribe -write readme.md templates/readme.md.tpl
+        run: |
+          markscribe -write "${RUNNER_TEMP}/coding-stats.json" templates/coding-stats.json.tpl
+          node scripts/render-coding-stats.mjs "${RUNNER_TEMP}/coding-stats.json"
+          export PROFILE_CODING_STATS="$(cat "${RUNNER_TEMP}/coding-stats.json")"
+          markscribe -write readme.md templates/readme.md.tpl
 
       - name: Commit and push if changed
         run: |
           git config user.name "readme-scribe 🤖"
           git config user.email "actions@github.com"
-          git add readme.md
+          git add readme.md assets/coding-bars
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update generated README" && git push)
