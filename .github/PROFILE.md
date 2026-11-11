@@ -33,15 +33,14 @@ temporary JSON file.
   custom styles and scripts, so the profile uses its built-in typography,
   keyboard navigation and disclosure controls.
 - Keep project descriptions escaped with the template's `html` helper.
-- Store visual assets in `assets/`. The header uses a light and dark SVG through
-  `<picture>`; the compact footer pairs real brand SVGs with visible text labels.
+- Store visual assets in `assets/`. The header uses `assets/profile-road.gif`
+  for both themes; the compact footer pairs real brand SVGs with visible text labels.
   Icon sources and license information are in `assets/icons/README.md`.
 - The header is decorative. The introduction and project information remain
   readable when images are disabled. Keep its width fluid and its height automatic.
-  Its text-free winter sunset matches the avatar's blue and orange palette.
-  Regenerate both header themes with `node scripts/render-profile.mjs`.
-  Motion runs once for 4.8 seconds, then settles; reduced-motion preferences
-  show the static scene. Keep the SVGs self-contained, with no scripts or fonts.
+  Use the supplied text-free dawn-to-day road GIF directly, preserving its
+  animation frames and timing. Update the image reference in both the template
+  and generated README when replacing it.
 - The coding chart combines the five main languages in one stacked SVG bar.
   Remaining activity appears as "Other languages". Small native text labels
   and matching colored circles provide the legend; percentages are not shown.
