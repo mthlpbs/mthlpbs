@@ -85,13 +85,14 @@ These optional views are hosted by external services.
 ---
 
 <p>
-  <a href="https://github.com/mthlpbs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="24" height="24" align="absmiddle" alt=""></picture> mthlpbs</a>
+  <sub>
+  <a href="https://github.com/mthlpbs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="12" height="12" align="absmiddle" alt=""></picture> mthlpbs</a>
   &nbsp; &nbsp;
-  <a href="https://github.com/asurpbs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="24" height="24" align="absmiddle" alt=""></picture> asurpbs</a>
+  <a href="https://github.com/asurpbs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="12" height="12" align="absmiddle" alt=""></picture> asurpbs</a>
   &nbsp; &nbsp;
-  <a href="https://greasyfork.org/en/users/1490967-mthlpbs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/greasyfork-dark.svg"><img src="assets/icons/greasyfork.svg" width="24" height="24" align="absmiddle" alt=""></picture> Greasy Fork</a>
+  <a href="https://greasyfork.org/en/users/1490967-mthlpbs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/greasyfork-dark.svg"><img src="assets/icons/greasyfork.svg" width="12" height="12" align="absmiddle" alt=""></picture> Greasy Fork</a>
   &nbsp; &nbsp;
-  <a href="https://stackoverflow.com/users/19565278/mthlpbs"><img src="assets/icons/stackoverflow.svg" width="24" height="24" align="absmiddle" alt=""> Stack Overflow</a>
+  <a href="https://stackoverflow.com/users/19565278/mthlpbs"><img src="assets/icons/stackoverflow.svg" width="12" height="12" align="absmiddle" alt=""> Stack Overflow</a>
+  </sub><br>
+  <sub>Built with <a href="https://github.com/mthlpbs/markscribe">Markscribe</a>. Activity refreshes hourly via <a href="https://github.com/mthlpbs/mthlpbs/actions/workflows/readme-scribe.yaml">GitHub Actions</a>.</sub>
 </p>
-
-<sub>Built with <a href="https://github.com/mthlpbs/markscribe">Markscribe</a>. Activity refreshes hourly via <a href="https://github.com/mthlpbs/mthlpbs/actions/workflows/readme-scribe.yaml">GitHub Actions</a>.</sub>

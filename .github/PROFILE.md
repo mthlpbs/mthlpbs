@@ -38,6 +38,10 @@ temporary JSON file.
   Icon sources and license information are in `assets/icons/README.md`.
 - The header is decorative. The introduction and project information remain
   readable when images are disabled. Keep its width fluid and its height automatic.
+  Its text-free winter sunset matches the avatar's blue and orange palette.
+  Regenerate both header themes with `node scripts/render-profile.mjs`.
+  Motion runs once for 4.8 seconds, then settles; reduced-motion preferences
+  show the static scene. Keep the SVGs self-contained, with no scripts or fonts.
 - The coding chart combines the five main languages in one stacked SVG bar.
   Remaining activity appears as "Other languages". Small native text labels
   and matching colored circles provide the legend; percentages are not shown.
