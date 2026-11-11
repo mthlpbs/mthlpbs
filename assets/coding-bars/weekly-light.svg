@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="12" viewBox="0 0 600 12">
+  <title>Weekly coding time by language</title>
+  <defs><clipPath id="bar"><rect width="600" height="12" rx="6"/></clipPath></defs>
+  <rect width="600" height="12" rx="6" fill="#eaeef2"/>
+  <g clip-path="url(#bar)">
+    <rect x="0" width="187.92" height="12" fill="#c86e46"/>
+    <rect x="187.92" width="146.28" height="12" fill="#7d8590"/>
+    <rect x="334.2" width="128.58" height="12" fill="#2089bd"/>
+    <rect x="462.78" width="56.76" height="12" fill="#3572a5"/>
+    <rect x="519.54" width="21.66" height="12" fill="#7664bd"/>
+    <rect x="541.2" width="58.8" height="12" fill="#c5ced8"/>
+  </g>
+</svg>
