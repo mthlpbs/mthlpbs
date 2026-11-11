@@ -40,10 +40,10 @@ My latest projects, from desktop experiments to browser improvements.
 <ul>
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
   Updated today</p></li>
+  <li><p><a href="https://github.com/mthlpbs/mthlpbs.github.io"><strong>mthlpbs.github.io</strong></a><br>
+  Updated today</p></li>
   <li><p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
   Updated today</p></li>
-  <li><p><a href="https://github.com/mthlpbs/mthlpbs.github.io"><strong>mthlpbs.github.io</strong></a><br>
-  Updated 2 weeks ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
   Updated 3 weeks ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary"><strong>ALT-Code-Gboard-Dictionary</strong></a><br>
