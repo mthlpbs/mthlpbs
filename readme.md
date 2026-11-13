@@ -34,7 +34,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 <ul>
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
-  Updated 2 days ago</p></li>
+  Updated today</p></li>
   <li><p><a href="https://github.com/mthlpbs/mthlpbs.github.io"><strong>mthlpbs.github.io</strong></a><br>
   Updated 2 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
@@ -49,7 +49,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**25 hrs 28 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**28 hrs 23 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
