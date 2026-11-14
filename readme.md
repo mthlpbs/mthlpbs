@@ -15,7 +15,7 @@ My latest projects, from desktop experiments to browser improvements.
   </li>
   <li>
     <p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
-    A living island for Windows</p>
+    Hello, island. Meet Lumo, a living island for your Windows desktop.</p>
   </li>
   <li>
     <p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
@@ -37,19 +37,19 @@ My latest projects, from desktop experiments to browser improvements.
   Updated today</p></li>
   <li><p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
   Updated today</p></li>
-  <li><p><a href="https://github.com/mthlpbs/mthlpbs.github.io"><strong>mthlpbs.github.io</strong></a><br>
-  Updated 3 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
   Updated 3 weeks ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary"><strong>ALT-Code-Gboard-Dictionary</strong></a><br>
   Updated 10 months ago</p></li>
+  <li><p><a href="https://github.com/mthlpbs/Keep"><strong>Keep</strong></a><br>
+  Updated 11 months ago</p></li>
 </ul>
 
 </details>
 
 ## Coding this week
 
-**30 hrs 58 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**31 hrs 26 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
