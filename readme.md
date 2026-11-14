@@ -34,11 +34,11 @@ My latest projects, from desktop experiments to browser improvements.
 
 <ul>
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
-  Updated today</p></li>
+  Updated 1 day ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/mthlpbs.github.io"><strong>mthlpbs.github.io</strong></a><br>
-  Updated 2 days ago</p></li>
+  Updated 3 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
-  Updated 2 days ago</p></li>
+  Updated 3 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
   Updated 3 weeks ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary"><strong>ALT-Code-Gboard-Dictionary</strong></a><br>
@@ -49,7 +49,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**30 hrs 7 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**29 hrs 49 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
