@@ -3,11 +3,11 @@
   <defs><clipPath id="bar"><rect width="600" height="12" rx="6"/></clipPath></defs>
   <rect width="600" height="12" rx="6" fill="#212b36"/>
   <g clip-path="url(#bar)">
-    <rect x="0" width="201.96" height="12" fill="#99a8bb"/>
-    <rect x="201.96" width="128.82" height="12" fill="#e69670"/>
-    <rect x="330.78" width="117.78" height="12" fill="#79c0ff"/>
-    <rect x="448.56" width="81.12" height="12" fill="#63c3e5"/>
-    <rect x="529.68" width="33" height="12" fill="#70b6e5"/>
-    <rect x="562.68" width="37.32" height="12" fill="#526071"/>
+    <rect x="0" width="196.14" height="12" fill="#99a8bb"/>
+    <rect x="196.14" width="137.34" height="12" fill="#e69670"/>
+    <rect x="333.48" width="126.78" height="12" fill="#79c0ff"/>
+    <rect x="460.26" width="80.88" height="12" fill="#63c3e5"/>
+    <rect x="541.14" width="23.7" height="12" fill="#70b6e5"/>
+    <rect x="564.84" width="35.16" height="12" fill="#526071"/>
   </g>
 </svg>

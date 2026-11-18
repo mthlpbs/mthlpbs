@@ -49,7 +49,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**17 hrs 57 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**15 hrs 49 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
