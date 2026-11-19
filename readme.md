@@ -33,6 +33,8 @@ My latest projects, from desktop experiments to browser improvements.
 <summary>Recent repository activity</summary>
 
 <ul>
+  <li><p><a href="https://github.com/mthlpbs/Orbit-Download-Manager"><strong>Orbit-Download-Manager</strong></a><br>
+  Updated today</p></li>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
   Updated 4 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
@@ -41,15 +43,13 @@ My latest projects, from desktop experiments to browser improvements.
   Updated 5 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary"><strong>ALT-Code-Gboard-Dictionary</strong></a><br>
   Updated 10 months ago</p></li>
-  <li><p><a href="https://github.com/mthlpbs/Keep"><strong>Keep</strong></a><br>
-  Updated 11 months ago</p></li>
 </ul>
 
 </details>
 
 ## Coding this week
 
-**21 hrs 36 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**21 hrs 35 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
@@ -60,8 +60,8 @@ My latest projects, from desktop experiments to browser improvements.
   <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-0-dark.svg"><img src="assets/coding-bars/legend-0-light.svg" width="10" height="10" alt=""></picture>&nbsp;unknown</sub> &nbsp;
   <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-1-dark.svg"><img src="assets/coding-bars/legend-1-light.svg" width="10" height="10" alt=""></picture>&nbsp;Rust</sub> &nbsp;
   <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-2-dark.svg"><img src="assets/coding-bars/legend-2-light.svg" width="10" height="10" alt=""></picture>&nbsp;JavaScript</sub> &nbsp;
-  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-3-dark.svg"><img src="assets/coding-bars/legend-3-light.svg" width="10" height="10" alt=""></picture>&nbsp;Markdown</sub> &nbsp;
-  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-4-dark.svg"><img src="assets/coding-bars/legend-4-light.svg" width="10" height="10" alt=""></picture>&nbsp;Python</sub> &nbsp;
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-3-dark.svg"><img src="assets/coding-bars/legend-3-light.svg" width="10" height="10" alt=""></picture>&nbsp;Python</sub> &nbsp;
+  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-4-dark.svg"><img src="assets/coding-bars/legend-4-light.svg" width="10" height="10" alt=""></picture>&nbsp;Markdown</sub> &nbsp;
   <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/legend-5-dark.svg"><img src="assets/coding-bars/legend-5-light.svg" width="10" height="10" alt=""></picture>&nbsp;Other languages</sub> &nbsp;
 </p>
 
