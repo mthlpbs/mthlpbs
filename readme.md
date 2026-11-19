@@ -10,6 +10,10 @@ My latest projects, from desktop experiments to browser improvements.
 
 <ul>
   <li>
+    <p><a href="https://github.com/mthlpbs/Orbit-Download-Manager"><strong>Orbit-Download-Manager</strong></a><br>
+    A Download Manager</p>
+  </li>
+  <li>
     <p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
     Explore the code and project details.</p>
   </li>
@@ -21,10 +25,6 @@ My latest projects, from desktop experiments to browser improvements.
     <p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
     Enhance sinflix site with different tweaks</p>
   </li>
-  <li>
-    <p><a href="https://github.com/mthlpbs/dotfiles"><strong>dotfiles</strong></a><br>
-    configuration files</p>
-  </li>
 </ul>
 
 [Browse all repositories](https://github.com/mthlpbs?tab=repositories)
@@ -34,11 +34,11 @@ My latest projects, from desktop experiments to browser improvements.
 
 <ul>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
-  Updated 3 days ago</p></li>
+  Updated 4 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
-  Updated 4 days ago</p></li>
+  Updated 5 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/scoop-bucket"><strong>scoop-bucket</strong></a><br>
-  Updated 4 days ago</p></li>
+  Updated 5 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary"><strong>ALT-Code-Gboard-Dictionary</strong></a><br>
   Updated 10 months ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/Keep"><strong>Keep</strong></a><br>
@@ -49,7 +49,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**15 hrs 49 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**17 hrs 35 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
