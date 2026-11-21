@@ -34,7 +34,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 <ul>
   <li><p><a href="https://github.com/mthlpbs/Orbit-Download-Manager"><strong>Orbit-Download-Manager</strong></a><br>
-  Updated 1 day ago</p></li>
+  Updated today</p></li>
   <li><p><a href="https://github.com/mthlpbs/sinflix-modifier"><strong>sinflix-modifier</strong></a><br>
   Updated 6 days ago</p></li>
   <li><p><a href="https://github.com/mthlpbs/Lumo"><strong>Lumo</strong></a><br>
@@ -49,7 +49,7 @@ My latest projects, from desktop experiments to browser improvements.
 
 ## Coding this week
 
-**20 hrs 32 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
+**21 hrs 52 mins** logged over the last 7 days on [Hackatime](https://hackatime.hackclub.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-bars/weekly-dark.svg">
